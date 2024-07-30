@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    width: 100%;
+    background-color: rgb(72, 104, 72);
+}
+
+nav {
+    background-color: rgb(76, 121, 76);
+}
+
+
+
+.hitter {
+    background-color: rgb(72, 104, 72);
+   
+}
